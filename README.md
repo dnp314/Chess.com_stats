@@ -35,24 +35,25 @@ Chess.com_stats/
 ## Installation
 
 1. **Clone the Repository**:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/dnp314/Chess.com_stats.git
-   \`\`\`
+   ```
 
 2. **Navigate to the Project Directory**:
-   \`\`\`bash
+   ```bash
    cd Chess.com_stats
-   \`\`\`
+   ```
 
 3. **Set Up Dependencies**:
    - Ensure Python 3.12.5 is installed.
    - Manually install the required packages for Selenium and Streamlit:
-     \`\`\`bash
-     pip install selenium streamlit
-     \`\`\`
+   ```bash
+   pip install selenium streamlit
+   ```
 
 4. **Set Up WebDriver**:
-   - Download and set up the Chrome WebDriver according to your Chrome version, and ensure it's added to your system's PATH or place it in the project directory.
+   - Download and set up the Chrome WebDriver according to your Chrome version, and ensure it's added to your system's PATH or placed in the project directory.
+
 
 ## Usage
 
