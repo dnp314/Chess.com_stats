@@ -16,15 +16,14 @@
 
 ## Project Structure
 
-\`\`\`
 Chess.com_stats/
 │
-├── .ipynb_checkpoints/      # Jupyter notebook checkpoints
-├── README.md                # Project documentation
-├── chromedriver.exe         # Chrome WebDriver for Selenium
-├── main.py                  # Main script with Streamlit UI
-├── scraper.ipynb            # Jupyter notebook for scraping stats (Rapid, Blitz, Bullet)
-\`\`\`
+├── .ipynb_checkpoints/      # Jupyter notebook checkpoints  
+├── README.md                # Project documentation  
+├── chromedriver.exe         # Chrome WebDriver for Selenium  
+├── main.py                  # Main script with Streamlit UI  
+└── scraper.ipynb            # Jupyter notebook for scraping stats (Rapid, Blitz, Bullet)  
+
 
 ## Explanation of Files
 
